@@ -6,7 +6,7 @@ Storing all talk pdfs for the ViennaPHP Community
 September
 --------
 
-* [Michael Schramm](): [Handmade Webshop](../201609/02_php_beyond_servers.pdf)
+* [Michael Schramm](): [PHP beyond servers](../201609/02_php_beyond_servers.pdf)
 
 
 July
